@@ -14,4 +14,4 @@ js
 
 This project is currently on progress with a goal to store all my web development projects.
 
-Project Link: 
+Project Link: https://awesome-joliot-4402cd.netlify.app
